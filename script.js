@@ -24,6 +24,12 @@ let kart = [
     name: "Blue Jeans", 
     price: 12, 
     quantity: 3
+   }, 
+   {
+    id: 5, 
+    name: "Socks", 
+    price: 1, 
+    quantity: 15
    }
 ]
 // Render all the elements into a table
